@@ -72,6 +72,10 @@ The system is designed around transparency - young people know parents have over
 - Spotify API for music sharing features
 - Discord/Railway for customer support queries
 
+## Architecture
+
+![SQUAD Architecture](screenshots/architecture.png)
+
 ## How It Works
 
 1. Youth downloads SQUAD and verifies age via facial scanning
